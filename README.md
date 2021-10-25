@@ -7,6 +7,8 @@ Welcome to my Github Profile 🙋‍♂️
 
 🌱 Aspiring Software Engineer/Developer.
 
+💬 Let's discuss new tools and technology.
+
 ⚡Fun fact: Love to explore new music and food.
 
 
