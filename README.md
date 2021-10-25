@@ -5,6 +5,8 @@ Welcome to my Github Profile 🙋‍♂️
 
 🔭 I’m currently pursuing my Master's in Computer Science from Santa Clara University 👨‍🎓
 
-🌱 I’m currently learning and experimenting with Backend technologies and Cloud Computing.
+🌱 Aspiring Software Engineer/Developer.
+
+⚡Fun fact: Love to explore new music and food.
 
 
