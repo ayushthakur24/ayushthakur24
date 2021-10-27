@@ -3,12 +3,12 @@
 Welcome to my Github Profile 🙋‍♂️
 
 
-🔭 I’m currently pursuing my Master's in Computer Science from Santa Clara University 👨‍🎓
+🔭 I'm working on my Master's degree in Computer Science at Santa Clara University right now. 👨‍🎓
 
-🌱 Aspiring Software Engineer/Developer.
+🌱Software Engineer/Developer aspirant.
 
-💬 Let's discuss about new tools and technology.
+💬 Let's talk about the latest technology and tools.
 
-⚡Fun fact: Love to explore new music and food.
+⚡Fun fact: I enjoy trying different foods and music.
 
 
