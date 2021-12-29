@@ -3,7 +3,7 @@
 Welcome to my Github Profile 🙋‍♂️
 
 
-🔭 I'm working on my Master's degree in Computer Science at Santa Clara University right now. 👨‍🎓
+🔭 I recently earned a Master's degree in Computer Science from Santa Clara University. 👨‍🎓
 
 🌱Software Engineer/Developer aspirant.
 
